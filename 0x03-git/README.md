@@ -1,1 +1,1 @@
-Lina Repo
+Lina Repository
